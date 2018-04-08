@@ -9,5 +9,8 @@ end
 
 def display_board
   puts "#{row}
-        #{divider}"
+  #{divider}
+  #{row}
+  #{divider}
+  #{row}"
 end
