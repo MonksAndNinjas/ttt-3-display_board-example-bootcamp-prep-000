@@ -7,7 +7,8 @@ row = "#{cell}|#{cell}|#{cell}"
 
 def display_board
   puts "   |   |   "
-  puts divider
-  puts row
-  puts divider
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
