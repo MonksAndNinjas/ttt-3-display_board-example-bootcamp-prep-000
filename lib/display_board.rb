@@ -9,5 +9,5 @@ end
 
 def display_board
   puts 
-  "#"
-  
+  "#{cells}"
+end
