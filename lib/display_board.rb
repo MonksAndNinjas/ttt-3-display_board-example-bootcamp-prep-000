@@ -8,6 +8,5 @@ def divider
 end
 
 def display_board
-  puts 
-  "#{cells}"
+  puts "#{cells}"
 end
