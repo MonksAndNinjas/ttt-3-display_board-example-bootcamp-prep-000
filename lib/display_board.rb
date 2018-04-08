@@ -8,7 +8,7 @@ def divider
 end
 
 def display_board
-  puts "#{row}
+  print "#{row}
   #{divider}
   #{row}
   #{divider}
